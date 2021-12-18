@@ -1,6 +1,6 @@
 {
   "name": "monkey-dont",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A monkey-patch to stop monkey-patching",
   "main": "monkey-dont.js",
   "scripts": {

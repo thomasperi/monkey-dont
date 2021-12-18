@@ -1,0 +1,12 @@
+{
+  "name": "monkey-dont",
+  "version": "1.0.0",
+  "description": "A monkey-patch to stop monkey-patching",
+  "main": "monkey-dont.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "github:thomasperi/monkey-dont",
+  "author": "Thomas Peri <hello@thomasperi.net>",
+  "license": "MIT"
+}
